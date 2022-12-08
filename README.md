@@ -11,6 +11,6 @@ SCREENSHOT
 1. Run `tvnviewer_helper.au3` file and connect by double click a list item or single click the button below.
 1. The connection is established by calling `tvnviewer.exe` (download it from [this link](https://www.tightvnc.com/download-old.php) - viewer executable) file from the current working directory of the `tvnviewer_helper.au3` file, providing IP address and password via command line interface.
 
-## TODO
+## To do
 
 - Handle errors and exceptions little bit better :)
