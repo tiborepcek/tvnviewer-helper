@@ -1,6 +1,6 @@
 # TightVNC Viewer Helper
 
-TightVNC Viewer Helper - shows a list of IP address and also name and description
+TightVNC Viewer Helper - shows a list of IP address and also name and description. It is written in [AutoIt scripting language](https://www.autoitscript.com/). This is how to [run AutoIt source code](https://www.autoitscript.com/autoit3/docs/intro/running.htm) (text file with au3 extension).
 
 ![This is an image](https://github.com/tiborepcek/tvnviewer-helper/blob/main/tvnviewer_helper.png)
 
